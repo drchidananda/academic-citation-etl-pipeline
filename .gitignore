@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/raw/*.json
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.duckdb.wal
+.DS_Store
+.pytest_cache/

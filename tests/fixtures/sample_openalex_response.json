@@ -1,0 +1,5046 @@
+[
+  {
+    "id": "https://openalex.org/W4000000000",
+    "title": "Applied AI study #0: Artificial intelligence for artificial intelligence",
+    "publication_year": 2019,
+    "publication_date": "2019-02-07",
+    "type": "article",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000777572",
+          "display_name": "Chen Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.811
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.676
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.707
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000001",
+    "title": "Applied AI study #1: Computer vision for speech recognition",
+    "publication_year": 2024,
+    "publication_date": "2024-01-24",
+    "type": "preprint",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000471029",
+          "display_name": "Sofia Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000795667",
+          "display_name": "Noah Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Computer vision",
+        "score": 0.371
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.562
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.548
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.537
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000002",
+    "title": "Applied AI study #2: Neural network for computer vision",
+    "publication_year": 2022,
+    "publication_date": "2022-11-23",
+    "type": "book-chapter",
+    "cited_by_count": 5,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000648564",
+          "display_name": "Carlos Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000605397",
+          "display_name": "Aisha M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000048050",
+          "display_name": "Ahmed Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000083667",
+          "display_name": "Yuki Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000398591",
+          "display_name": "Chen Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000170555",
+          "display_name": "Priya Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.72
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.418
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.803
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.413
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000003",
+    "title": "Applied AI study #3: Federated learning for robotics",
+    "publication_year": 2021,
+    "publication_date": "2021-07-21",
+    "type": "preprint",
+    "cited_by_count": 2,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000844151",
+          "display_name": "Priya Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Natural language processing",
+        "score": 0.905
+      },
+      {
+        "display_name": "Explainable AI",
+        "score": 0.517
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000004",
+    "title": "Applied AI study #4: Machine learning for computer vision",
+    "publication_year": 2022,
+    "publication_date": "2022-07-06",
+    "type": "preprint",
+    "cited_by_count": 0,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Applied Sciences"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000612982",
+          "display_name": "David Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000418801",
+          "display_name": "Priya Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000534277",
+          "display_name": "Emily Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000902931",
+          "display_name": "Maria Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000830555",
+          "display_name": "Ahmed Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000066613",
+          "display_name": "David Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Data science",
+        "score": 0.797
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.77
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.671
+      },
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.484
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.742
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000005",
+    "title": "Applied AI study #5: Machine learning for speech recognition",
+    "publication_year": 2020,
+    "publication_date": "2020-09-25",
+    "type": "article",
+    "cited_by_count": 2,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "IEEE Transactions on Neural Networks"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000956959",
+          "display_name": "Maria Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000882554",
+          "display_name": "Ahmed Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000208573",
+          "display_name": "John Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000565579",
+          "display_name": "Noah Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000963110",
+          "display_name": "Wei Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.34
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.906
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.953
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.359
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.635
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000006",
+    "title": "Applied AI study #6: Machine learning for autonomous vehicles",
+    "publication_year": 2022,
+    "publication_date": "2022-01-28",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Communications of the ACM"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000914812",
+          "display_name": "Sofia Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000974036",
+          "display_name": "Hiroshi Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000747581",
+          "display_name": "Chen Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000459381",
+          "display_name": "Carlos Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000126882",
+          "display_name": "Aisha Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.706
+      },
+      {
+        "display_name": "Explainable AI",
+        "score": 0.305
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.788
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.341
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000007",
+    "title": "Applied AI study #7: Machine learning for natural language processing",
+    "publication_year": 2021,
+    "publication_date": "2021-04-07",
+    "type": "book-chapter",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Communications of the ACM"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000138739",
+          "display_name": "Laura Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000604201",
+          "display_name": "Emily Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000846721",
+          "display_name": "David Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000101639",
+          "display_name": "Ahmed Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000444154",
+          "display_name": "David Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.802
+      },
+      {
+        "display_name": "Neural network",
+        "score": 0.852
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000008",
+    "title": "Applied AI study #8: Machine learning for autonomous vehicles",
+    "publication_year": 2021,
+    "publication_date": "2021-04-06",
+    "type": "preprint",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000464656",
+          "display_name": "Noah Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.99
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.877
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000009",
+    "title": "Applied AI study #9: Data science for autonomous vehicles",
+    "publication_year": 2020,
+    "publication_date": "2020-09-06",
+    "type": "article",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000002260",
+          "display_name": "David Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000299105",
+          "display_name": "David M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000694022",
+          "display_name": "Laura Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000199122",
+          "display_name": "Chen Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.339
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.703
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000010",
+    "title": "Applied AI study #10: Computer vision for robotics",
+    "publication_year": 2021,
+    "publication_date": "2021-06-25",
+    "type": "article",
+    "cited_by_count": 0,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000125710",
+          "display_name": "Carlos Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000607040",
+          "display_name": "Sofia Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000085965",
+          "display_name": "David Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000592683",
+          "display_name": "Hiroshi Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Federated learning",
+        "score": 0.465
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.573
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.763
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000011",
+    "title": "Applied AI study #11: Machine learning for autonomous vehicles",
+    "publication_year": 2019,
+    "publication_date": "2019-03-09",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Applied Sciences"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000223508",
+          "display_name": "Hiroshi Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000978593",
+          "display_name": "Priya Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000921981",
+          "display_name": "Aisha Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000165409",
+          "display_name": "Emily Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000737715",
+          "display_name": "Chen Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Federated learning",
+        "score": 0.683
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.943
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000012",
+    "title": "Applied AI study #12: Deep learning for data science",
+    "publication_year": 2021,
+    "publication_date": "2021-01-27",
+    "type": "article",
+    "cited_by_count": 80,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000359536",
+          "display_name": "Aisha Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000529959",
+          "display_name": "Emily Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000096781",
+          "display_name": "Ahmed Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000046228",
+          "display_name": "Wei Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000668061",
+          "display_name": "Chen Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000578478",
+          "display_name": "Laura Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Machine learning",
+        "score": 0.952
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.777
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000013",
+    "title": "Applied AI study #13: Reinforcement learning for speech recognition",
+    "publication_year": 2022,
+    "publication_date": "2022-07-26",
+    "type": "article",
+    "cited_by_count": 8,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000942650",
+          "display_name": "Carlos Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000942590",
+          "display_name": "Priya Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000699330",
+          "display_name": "Maria Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Explainable AI",
+        "score": 0.974
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.859
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.908
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.317
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.808
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000014",
+    "title": "Applied AI study #14: Autonomous vehicles for computer vision",
+    "publication_year": 2018,
+    "publication_date": "2018-03-19",
+    "type": "article",
+    "cited_by_count": 0,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Expert Systems with Applications"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000233238",
+          "display_name": "Aisha Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000366643",
+          "display_name": "Chen Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000233752",
+          "display_name": "Wei Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000417821",
+          "display_name": "Priya Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.769
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.882
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.528
+      },
+      {
+        "display_name": "Neural network",
+        "score": 0.319
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000015",
+    "title": "Applied AI study #15: Knowledge graph for computer vision",
+    "publication_year": 2024,
+    "publication_date": "2024-09-05",
+    "type": "article",
+    "cited_by_count": 20,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "IEEE Transactions on Neural Networks"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000536265",
+          "display_name": "Maria Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000199312",
+          "display_name": "Chen Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000001773",
+          "display_name": "Hiroshi Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000720221",
+          "display_name": "Laura M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000381913",
+          "display_name": "David Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Federated learning",
+        "score": 0.921
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.65
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.76
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.525
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000016",
+    "title": "Applied AI study #16: Speech recognition for natural language processing",
+    "publication_year": 2022,
+    "publication_date": "2022-11-10",
+    "type": "article",
+    "cited_by_count": 400,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000574553",
+          "display_name": "Yuki Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000300850",
+          "display_name": "Aisha Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000636130",
+          "display_name": "Ahmed Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000463246",
+          "display_name": "Emily Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Speech recognition",
+        "score": 0.359
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.656
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.737
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.531
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.865
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000017",
+    "title": "Applied AI study #17: Robotics for federated learning",
+    "publication_year": 2025,
+    "publication_date": "2025-09-18",
+    "type": "book-chapter",
+    "cited_by_count": 12,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000891014",
+          "display_name": "Noah Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000434572",
+          "display_name": "Carlos Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000203880",
+          "display_name": "Laura M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000518392",
+          "display_name": "David Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000687926",
+          "display_name": "Laura Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Natural language processing",
+        "score": 0.621
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.685
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.933
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.384
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.392
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000018",
+    "title": "Applied AI study #18: Neural network for knowledge graph",
+    "publication_year": 2024,
+    "publication_date": "2024-03-23",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Communications of the ACM"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000467574",
+          "display_name": "Carlos Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000471932",
+          "display_name": "Chen Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000880660",
+          "display_name": "Ahmed Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000508136",
+          "display_name": "Ahmed Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000461239",
+          "display_name": "Maria M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Computer vision",
+        "score": 0.916
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.356
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.404
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000019",
+    "title": "Applied AI study #19: Reinforcement learning for computer vision",
+    "publication_year": 2024,
+    "publication_date": "2024-07-28",
+    "type": "preprint",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000216881",
+          "display_name": "Yuki Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.697
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.629
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000020",
+    "title": "Applied AI study #20: Explainable AI for explainable ai",
+    "publication_year": 2025,
+    "publication_date": "2025-11-01",
+    "type": "article",
+    "cited_by_count": 120,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "IEEE Transactions on Neural Networks"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000286193",
+          "display_name": "David Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000407746",
+          "display_name": "Priya Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.977
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.669
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.926
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000021",
+    "title": "Applied AI study #21: Machine learning for speech recognition",
+    "publication_year": 2018,
+    "publication_date": "2018-11-02",
+    "type": "article",
+    "cited_by_count": 5,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "IEEE Transactions on Neural Networks"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000397519",
+          "display_name": "Priya Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000342722",
+          "display_name": "Priya Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000291773",
+          "display_name": "Noah Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.817
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.336
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.957
+      },
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.455
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000022",
+    "title": "Applied AI study #22: Explainable AI for artificial intelligence",
+    "publication_year": 2021,
+    "publication_date": "2021-05-19",
+    "type": "preprint",
+    "cited_by_count": 20,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000496564",
+          "display_name": "Ahmed Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000993795",
+          "display_name": "Aisha Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Deep learning",
+        "score": 0.796
+      },
+      {
+        "display_name": "Explainable AI",
+        "score": 0.837
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.413
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.515
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000023",
+    "title": "Applied AI study #23: Knowledge graph for deep learning",
+    "publication_year": 2019,
+    "publication_date": "2019-07-06",
+    "type": "book-chapter",
+    "cited_by_count": 120,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000810004",
+          "display_name": "Chen Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000844657",
+          "display_name": "Maria Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000820652",
+          "display_name": "Wei Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000449186",
+          "display_name": "Ahmed Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000530538",
+          "display_name": "Ahmed Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000890844",
+          "display_name": "David Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Neural network",
+        "score": 0.739
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.872
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000024",
+    "title": "Applied AI study #24: Autonomous vehicles for computer vision",
+    "publication_year": 2025,
+    "publication_date": "2025-09-01",
+    "type": "book-chapter",
+    "cited_by_count": 5,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Communications of the ACM"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000456732",
+          "display_name": "Yuki M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000281433",
+          "display_name": "Priya Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000871084",
+          "display_name": "Carlos Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000924457",
+          "display_name": "Emily Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.636
+      },
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.545
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.478
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.493
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.711
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000025",
+    "title": "Applied AI study #25: Data science for speech recognition",
+    "publication_year": 2021,
+    "publication_date": "2021-12-06",
+    "type": "article",
+    "cited_by_count": 5,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000499219",
+          "display_name": "Ahmed M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000469945",
+          "display_name": "Noah Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000308528",
+          "display_name": "Aisha Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000321080",
+          "display_name": "Ahmed Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000496249",
+          "display_name": "Hiroshi Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000446173",
+          "display_name": "Laura Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.473
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.383
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.433
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.382
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000026",
+    "title": "Applied AI study #26: Knowledge graph for deep learning",
+    "publication_year": 2022,
+    "publication_date": "2022-11-28",
+    "type": "preprint",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Communications of the ACM"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000873074",
+          "display_name": "Aisha Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Deep learning",
+        "score": 0.669
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.489
+      },
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.972
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.682
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000027",
+    "title": "Applied AI study #27: Data science for speech recognition",
+    "publication_year": 2025,
+    "publication_date": "2025-07-20",
+    "type": "book-chapter",
+    "cited_by_count": 400,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000357256",
+          "display_name": "John Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000986776",
+          "display_name": "Yuki Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000862050",
+          "display_name": "Maria Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000077680",
+          "display_name": "Sofia Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Deep learning",
+        "score": 0.955
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.359
+      },
+      {
+        "display_name": "Explainable AI",
+        "score": 0.471
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000028",
+    "title": "Applied AI study #28: Explainable AI for robotics",
+    "publication_year": 2025,
+    "publication_date": "2025-05-02",
+    "type": "article",
+    "cited_by_count": 8,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Communications of the ACM"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000311797",
+          "display_name": "Yuki Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000320214",
+          "display_name": "Sofia Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000639244",
+          "display_name": "Laura Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000655900",
+          "display_name": "Aisha Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Natural language processing",
+        "score": 0.352
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.302
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.611
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000029",
+    "title": "Applied AI study #29: Robotics for machine learning",
+    "publication_year": 2019,
+    "publication_date": "2019-10-02",
+    "type": "preprint",
+    "cited_by_count": 200,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000244762",
+          "display_name": "Carlos Li"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000693300",
+          "display_name": "Noah Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000445790",
+          "display_name": "Maria Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000679094",
+          "display_name": "John Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000866785",
+          "display_name": "John Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000173982",
+          "display_name": "Noah Li"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Robotics",
+        "score": 0.51
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.578
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.488
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.673
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000030",
+    "title": "Applied AI study #30: Machine learning for healthcare ai",
+    "publication_year": 2021,
+    "publication_date": "2021-03-11",
+    "type": "preprint",
+    "cited_by_count": 200,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000876566",
+          "display_name": "Yuki Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000996971",
+          "display_name": "Wei Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000604238",
+          "display_name": "Wei Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000493355",
+          "display_name": "Hiroshi Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000960571",
+          "display_name": "Chen Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000457058",
+          "display_name": "Ahmed Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Robotics",
+        "score": 0.582
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.522
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000031",
+    "title": "Applied AI study #31: Computer vision for robotics",
+    "publication_year": 2018,
+    "publication_date": "2018-12-16",
+    "type": "article",
+    "cited_by_count": 0,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000092337",
+          "display_name": "Priya Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000121552",
+          "display_name": "Noah Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000864998",
+          "display_name": "Wei Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000484417",
+          "display_name": "David Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Explainable AI",
+        "score": 0.605
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.336
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.484
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.39
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000032",
+    "title": "Applied AI study #32: Natural language processing for autonomous vehicles",
+    "publication_year": 2020,
+    "publication_date": "2020-10-17",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000577596",
+          "display_name": "Wei Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000097736",
+          "display_name": "Aisha Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000483863",
+          "display_name": "Maria Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.587
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.633
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.626
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.615
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.4
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000033",
+    "title": "Applied AI study #33: Knowledge graph for autonomous vehicles",
+    "publication_year": 2023,
+    "publication_date": "2023-07-13",
+    "type": "article",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Expert Systems with Applications"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000280150",
+          "display_name": "Yuki Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000761319",
+          "display_name": "Chen Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000608093",
+          "display_name": "Ahmed Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000468238",
+          "display_name": "Hiroshi Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000348588",
+          "display_name": "Hiroshi Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Robotics",
+        "score": 0.695
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.461
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.835
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.33
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.814
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000034",
+    "title": "Applied AI study #34: Artificial intelligence for explainable ai",
+    "publication_year": 2019,
+    "publication_date": "2019-02-08",
+    "type": "article",
+    "cited_by_count": 5,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000104555",
+          "display_name": "Hiroshi Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000016093",
+          "display_name": "Laura Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000913239",
+          "display_name": "Ahmed Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000492296",
+          "display_name": "Noah Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Federated learning",
+        "score": 0.562
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.518
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.796
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.824
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.902
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000035",
+    "title": "Applied AI study #35: Robotics for autonomous vehicles",
+    "publication_year": 2019,
+    "publication_date": "2019-10-05",
+    "type": "article",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000174446",
+          "display_name": "Laura Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000048225",
+          "display_name": "Priya Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000307618",
+          "display_name": "Priya Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000152640",
+          "display_name": "Aisha Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Deep learning",
+        "score": 0.721
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.564
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.771
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000036",
+    "title": "Applied AI study #36: Artificial intelligence for healthcare ai",
+    "publication_year": 2025,
+    "publication_date": "2025-11-13",
+    "type": "article",
+    "cited_by_count": 0,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000710526",
+          "display_name": "Hiroshi Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000463187",
+          "display_name": "Priya Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000669975",
+          "display_name": "David M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.374
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.563
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.548
+      },
+      {
+        "display_name": "Neural network",
+        "score": 0.504
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.783
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000037",
+    "title": "Applied AI study #37: Robotics for artificial intelligence",
+    "publication_year": 2025,
+    "publication_date": "2025-10-12",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000813423",
+          "display_name": "Noah Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000840886",
+          "display_name": "Priya Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000651051",
+          "display_name": "Chen Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.746
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.513
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000038",
+    "title": "Applied AI study #38: Speech recognition for machine learning",
+    "publication_year": 2020,
+    "publication_date": "2020-08-03",
+    "type": "article",
+    "cited_by_count": 400,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000138579",
+          "display_name": "Noah Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000556639",
+          "display_name": "Hiroshi Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Computer vision",
+        "score": 0.967
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.504
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.901
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000039",
+    "title": "Applied AI study #39: Explainable AI for neural network",
+    "publication_year": 2023,
+    "publication_date": "2023-11-12",
+    "type": "article",
+    "cited_by_count": 120,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000829090",
+          "display_name": "David Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Robotics",
+        "score": 0.764
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.764
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000040",
+    "title": "Applied AI study #40: Robotics for explainable ai",
+    "publication_year": 2023,
+    "publication_date": "2023-07-09",
+    "type": "article",
+    "cited_by_count": 200,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000232120",
+          "display_name": "Ahmed Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000953562",
+          "display_name": "Laura Li"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000122343",
+          "display_name": "John Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000319149",
+          "display_name": "Emily Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000246205",
+          "display_name": "Carlos Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Robotics",
+        "score": 0.589
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.812
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.407
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.586
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.368
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000041",
+    "title": "Applied AI study #41: Healthcare AI for healthcare ai",
+    "publication_year": 2023,
+    "publication_date": "2023-08-03",
+    "type": "article",
+    "cited_by_count": 120,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000718987",
+          "display_name": "Priya Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Neural network",
+        "score": 0.431
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.384
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000042",
+    "title": "Applied AI study #42: Artificial intelligence for computer vision",
+    "publication_year": 2023,
+    "publication_date": "2023-03-05",
+    "type": "book-chapter",
+    "cited_by_count": 8,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000132040",
+          "display_name": "Noah Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000071942",
+          "display_name": "Yuki Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Explainable AI",
+        "score": 0.527
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.402
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.921
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000043",
+    "title": "Applied AI study #43: Robotics for speech recognition",
+    "publication_year": 2020,
+    "publication_date": "2020-06-17",
+    "type": "book-chapter",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000375644",
+          "display_name": "Noah Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.387
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.59
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.378
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.344
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000044",
+    "title": "Applied AI study #44: Neural network for explainable ai",
+    "publication_year": 2022,
+    "publication_date": "2022-09-10",
+    "type": "preprint",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000674591",
+          "display_name": "Wei Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000888456",
+          "display_name": "David Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000514084",
+          "display_name": "Laura Fernandez"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000077060",
+          "display_name": "Carlos Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Machine learning",
+        "score": 0.731
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.704
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.791
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000045",
+    "title": "Applied AI study #45: Reinforcement learning for speech recognition",
+    "publication_year": 2021,
+    "publication_date": "2021-03-18",
+    "type": "article",
+    "cited_by_count": 80,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000473489",
+          "display_name": "Carlos Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000355395",
+          "display_name": "Yuki Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000436196",
+          "display_name": "Laura Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000447494",
+          "display_name": "Priya Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Deep learning",
+        "score": 0.363
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.359
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.598
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.814
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000046",
+    "title": "Applied AI study #46: Natural language processing for healthcare ai",
+    "publication_year": 2024,
+    "publication_date": "2024-02-12",
+    "type": "book-chapter",
+    "cited_by_count": 12,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000916043",
+          "display_name": "Ahmed Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000910260",
+          "display_name": "Carlos M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000301601",
+          "display_name": "Sofia Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Explainable AI",
+        "score": 0.447
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.753
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000047",
+    "title": "Applied AI study #47: Artificial intelligence for machine learning",
+    "publication_year": 2024,
+    "publication_date": "2024-12-17",
+    "type": "article",
+    "cited_by_count": 20,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Expert Systems with Applications"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000804711",
+          "display_name": "Yuki Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000707764",
+          "display_name": "Ahmed Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000638577",
+          "display_name": "Carlos Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000030359",
+          "display_name": "John Li"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000966302",
+          "display_name": "Priya Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.754
+      },
+      {
+        "display_name": "Deep learning",
+        "score": 0.348
+      },
+      {
+        "display_name": "Explainable AI",
+        "score": 0.811
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000048",
+    "title": "Applied AI study #48: Explainable AI for robotics",
+    "publication_year": 2022,
+    "publication_date": "2022-09-22",
+    "type": "article",
+    "cited_by_count": 0,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Nature Machine Intelligence"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000340140",
+          "display_name": "Noah Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000089083",
+          "display_name": "Carlos Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000165056",
+          "display_name": "Noah Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000706707",
+          "display_name": "Maria Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000694093",
+          "display_name": "David Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000463516",
+          "display_name": "David Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.377
+      },
+      {
+        "display_name": "Neural network",
+        "score": 0.768
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000049",
+    "title": "Applied AI study #49: Neural network for data science",
+    "publication_year": 2018,
+    "publication_date": "2018-12-08",
+    "type": "book-chapter",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Journal of Artificial Intelligence Research"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000316061",
+          "display_name": "Aisha Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000801280",
+          "display_name": "Chen Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.815
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.421
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000050",
+    "title": "Applied AI study #50: Knowledge graph for reinforcement learning",
+    "publication_year": 2024,
+    "publication_date": "2024-04-11",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": true
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000044357",
+          "display_name": "David Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000965908",
+          "display_name": "Maria Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000603727",
+          "display_name": "David Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000743963",
+          "display_name": "Ahmed Johnson"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000120768",
+          "display_name": "David Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000180222",
+          "display_name": "Noah Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Machine learning",
+        "score": 0.601
+      },
+      {
+        "display_name": "Neural network",
+        "score": 0.576
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.354
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.901
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000051",
+    "title": "Applied AI study #51: Explainable AI for speech recognition",
+    "publication_year": 2021,
+    "publication_date": "2021-10-15",
+    "type": "book-chapter",
+    "cited_by_count": 120,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Expert Systems with Applications"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000368154",
+          "display_name": "Laura Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000247745",
+          "display_name": "Maria Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000206854",
+          "display_name": "John Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Deep learning",
+        "score": 0.733
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.62
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000052",
+    "title": "Applied AI study #52: Robotics for explainable ai",
+    "publication_year": 2020,
+    "publication_date": "2020-09-26",
+    "type": "article",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000071603",
+          "display_name": "Emily Brown"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000835012",
+          "display_name": "Chen Rossi"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000369038",
+          "display_name": "Hiroshi Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000484172",
+          "display_name": "Emily Zhang"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.896
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.89
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.724
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.65
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000053",
+    "title": "Applied AI study #53: Artificial intelligence for speech recognition",
+    "publication_year": 2023,
+    "publication_date": "2023-11-21",
+    "type": "article",
+    "cited_by_count": 1,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000498733",
+          "display_name": "Hiroshi Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000472407",
+          "display_name": "Maria Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000749014",
+          "display_name": "Maria Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000041043",
+          "display_name": "Aisha M\u00fcller"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000460767",
+          "display_name": "Hiroshi Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.567
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.834
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.768
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000054",
+    "title": "Applied AI study #54: Federated learning for speech recognition",
+    "publication_year": 2022,
+    "publication_date": "2022-06-27",
+    "type": "article",
+    "cited_by_count": 120,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000758889",
+          "display_name": "Yuki Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000915700",
+          "display_name": "John Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000611046",
+          "display_name": "Ahmed Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Federated learning",
+        "score": 0.389
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.789
+      },
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.358
+      },
+      {
+        "display_name": "Neural network",
+        "score": 0.686
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000055",
+    "title": "Applied AI study #55: Explainable AI for neural network",
+    "publication_year": 2019,
+    "publication_date": "2019-03-06",
+    "type": "article",
+    "cited_by_count": 200,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "IEEE Transactions on Neural Networks"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000703024",
+          "display_name": "David Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000019116",
+          "display_name": "Priya Li"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000997373",
+          "display_name": "Aisha Sharma"
+        },
+        "institutions": [
+          {
+            "display_name": "Carnegie Mellon University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000201332",
+          "display_name": "Aisha Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Oxford",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000080913",
+          "display_name": "Chen Sato"
+        },
+        "institutions": [
+          {
+            "display_name": "Massachusetts Institute of Technology",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000532351",
+          "display_name": "Noah Tanaka"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Cambridge",
+            "country_code": "GB"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Federated learning",
+        "score": 0.905
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.726
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000056",
+    "title": "Applied AI study #56: Natural language processing for reinforcement learning",
+    "publication_year": 2025,
+    "publication_date": "2025-11-19",
+    "type": "preprint",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000430816",
+          "display_name": "Priya Hassan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Explainable AI",
+        "score": 0.461
+      },
+      {
+        "display_name": "Computer vision",
+        "score": 0.465
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.966
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.841
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.924
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000057",
+    "title": "Applied AI study #57: Deep learning for healthcare ai",
+    "publication_year": 2024,
+    "publication_date": "2024-07-03",
+    "type": "article",
+    "cited_by_count": 35,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "PLoS ONE"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000856572",
+          "display_name": "Aisha Wilson"
+        },
+        "institutions": [
+          {
+            "display_name": "DeepMind",
+            "country_code": "GB"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000145121",
+          "display_name": "Yuki Li"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.887
+      },
+      {
+        "display_name": "Reinforcement learning",
+        "score": 0.497
+      },
+      {
+        "display_name": "Data science",
+        "score": 0.827
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.488
+      },
+      {
+        "display_name": "Speech recognition",
+        "score": 0.925
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000058",
+    "title": "Applied AI study #58: Autonomous vehicles for machine learning",
+    "publication_year": 2018,
+    "publication_date": "2018-01-09",
+    "type": "article",
+    "cited_by_count": 2,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000526392",
+          "display_name": "Priya Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "National University of Singapore",
+            "country_code": "SG"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000085569",
+          "display_name": "Priya Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000334165",
+          "display_name": "Carlos Garcia"
+        },
+        "institutions": [
+          {
+            "display_name": "University of Toronto",
+            "country_code": "CA"
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000829822",
+          "display_name": "John Smith"
+        },
+        "institutions": [
+          {
+            "display_name": "Stanford University",
+            "country_code": "US"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Autonomous vehicles",
+        "score": 0.873
+      },
+      {
+        "display_name": "Healthcare AI",
+        "score": 0.824
+      },
+      {
+        "display_name": "Robotics",
+        "score": 0.624
+      },
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.725
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4000000059",
+    "title": "Applied AI study #59: Robotics for machine learning",
+    "publication_year": 2024,
+    "publication_date": "2024-02-27",
+    "type": "preprint",
+    "cited_by_count": 80,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "arXiv (Cornell University)"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000813875",
+          "display_name": "Chen Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "ETH Zurich",
+            "country_code": "CH"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Artificial intelligence",
+        "score": 0.59
+      },
+      {
+        "display_name": "Natural language processing",
+        "score": 0.848
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W9999999901",
+    "title": null,
+    "publication_year": 2024
+  },
+  {
+    "id": null,
+    "title": "Missing id record",
+    "publication_year": 2023
+  },
+  {
+    "id": "https://openalex.org/W4000000000",
+    "title": "Applied AI study #0: Artificial intelligence for artificial intelligence",
+    "publication_year": 2019,
+    "publication_date": "2019-02-07",
+    "type": "article",
+    "cited_by_count": 50,
+    "language": "en",
+    "is_retracted": false,
+    "open_access": {
+      "is_oa": false
+    },
+    "primary_location": {
+      "source": {
+        "display_name": "Scientific Reports"
+      }
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000777572",
+          "display_name": "Chen Khan"
+        },
+        "institutions": [
+          {
+            "display_name": "Tsinghua University",
+            "country_code": "CN"
+          }
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "display_name": "Knowledge graph",
+        "score": 0.811
+      },
+      {
+        "display_name": "Machine learning",
+        "score": 0.676
+      },
+      {
+        "display_name": "Federated learning",
+        "score": 0.707
+      }
+    ]
+  }
+]

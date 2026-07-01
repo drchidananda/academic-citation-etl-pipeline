@@ -1,0 +1,59 @@
+name: OpenAlex ETL Pipeline
+
+# Scheduling: runs automatically every day at 06:00 UTC, and can also be
+# triggered manually from the Actions tab (workflow_dispatch) or on pushes
+# to pipeline code (useful for catching regressions before the next
+# scheduled run).
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "pipeline/**"
+      - "dashboard/**"
+      - ".github/workflows/etl.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ETL pipeline (extract -> transform -> load -> dashboard)
+        run: python -m pipeline.flow
+        env:
+          OPENALEX_MAILTO: chidapaper@gmail.com
+
+      - name: Upload logs + dashboard as build artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-run-${{ github.run_number }}
+          path: |
+            logs/
+            dashboard/dashboard.html
+          retention-days: 30
+
+      - name: Commit updated DB, dashboard & logs back to the repo
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(etl): automated pipeline run ${{ github.run_number }}"
+          file_pattern: "db/*.duckdb dashboard/dashboard.html logs/*.jsonl"

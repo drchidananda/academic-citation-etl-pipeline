@@ -1,0 +1,100 @@
+2026-07-02 00:45:24 | INFO     | pipeline.extract | Saved raw extract (63 records) to /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/data/raw/works_20260701T191524Z_0f9e889bf2e9.json
+2026-07-02 00:45:24 | WARNING  | pipeline.transform | Dropped 2 raw records missing id/title
+2026-07-02 00:45:24 | INFO     | pipeline.transform | Dropped 1 duplicate work_id rows
+2026-07-02 00:45:24 | INFO     | pipeline.transform | Dropped 1 duplicate (work_id, author_id) rows
+2026-07-02 00:45:24 | INFO     | pipeline.transform | Transformed into 60 works and 219 authorships
+2026-07-02 00:45:24 | INFO     | pipeline.load | Loaded 60 works and 219 authorships into /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/db/openalex.duckdb
+2026-07-02 00:45:24 | INFO     | dashboard.generate_dashboard | Dashboard written to /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/dashboard/dashboard.html
+2026-07-02 00:45:24 | INFO     | pipeline.flow | Pipeline run 0f9e889bf2e9 finished with status=success
+2026-07-02 00:45:25 | INFO     | pipeline.extract | Saved raw extract (63 records) to /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/data/raw/works_20260701T191525Z_93ba670356fc.json
+2026-07-02 00:45:55 | ERROR    | pipeline.flow | ETL flow failed at stage=transform
+Traceback (most recent call last):
+  File "/sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/./pipeline/flow.py", line 101, in etl_flow
+    dataframes = transform_task(raw_path)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/tasks.py", line 716, in __call__
+    return enter_task_run_engine(
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/engine.py", line 1469, in enter_task_run_engine
+    return from_sync.wait_for_call_in_loop_thread(begin_run)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/api.py", line 218, in wait_for_call_in_loop_thread
+    return call.result()
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 318, in result
+    return self.future.result(timeout=timeout)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 179, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 389, in _run_async
+    result = await coro
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/engine.py", line 1605, in get_task_call_return_value
+    return await future._result()
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/futures.py", line 237, in _result
+    return await final_state.result(raise_on_failure=raise_on_failure, fetch=True)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/states.py", line 91, in _get_state_result
+    raise await get_state_exception(state)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/engine.py", line 2172, in orchestrate_task_run
+    result = await call.aresult()
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 327, in aresult
+    return await asyncio.wrap_future(self.future)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 352, in _run_sync
+    result = self.fn(*self.args, **self.kwargs)
+  File "/sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/./pipeline/flow.py", line 49, in transform_task
+    works_df, authors_df = transform.clean(raw_works)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1114, in __call__
+    return self._mock_call(*args, **kwargs)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1118, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1173, in _execute_mock_call
+    raise effect
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/engine.py", line 2172, in orchestrate_task_run
+    result = await call.aresult()
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 327, in aresult
+    return await asyncio.wrap_future(self.future)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 352, in _run_sync
+    result = self.fn(*self.args, **self.kwargs)
+  File "/sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/./pipeline/flow.py", line 49, in transform_task
+    works_df, authors_df = transform.clean(raw_works)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1114, in __call__
+    return self._mock_call(*args, **kwargs)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1118, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1173, in _execute_mock_call
+    raise effect
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/engine.py", line 2172, in orchestrate_task_run
+    result = await call.aresult()
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 327, in aresult
+    return await asyncio.wrap_future(self.future)
+  File "/sessions/blissful-friendly-feynman/.local/lib/python3.10/site-packages/prefect/_internal/concurrency/calls.py", line 352, in _run_sync
+    result = self.fn(*self.args, **self.kwargs)
+  File "/sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/./pipeline/flow.py", line 49, in transform_task
+    works_df, authors_df = transform.clean(raw_works)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1114, in __call__
+    return self._mock_call(*args, **kwargs)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1118, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+  File "/usr/lib/python3.10/unittest/mock.py", line 1173, in _execute_mock_call
+    raise effect
+ValueError: OpenAlexExtractionError-style simulated crash for demo
+2026-07-02 00:45:55 | INFO     | pipeline.flow | Pipeline run 93ba670356fc finished with status=failed
+2026-07-02 00:45:55 | INFO     | pipeline.extract | Saved raw extract (63 records) to /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/data/raw/works_20260701T191555Z_1243f1219d73.json
+2026-07-02 00:45:55 | WARNING  | pipeline.transform | Dropped 2 raw records missing id/title
+2026-07-02 00:45:55 | INFO     | pipeline.transform | Dropped 1 duplicate work_id rows
+2026-07-02 00:45:55 | INFO     | pipeline.transform | Dropped 1 duplicate (work_id, author_id) rows
+2026-07-02 00:45:55 | INFO     | pipeline.transform | Transformed into 60 works and 219 authorships
+2026-07-02 00:45:55 | INFO     | pipeline.load | Loaded 60 works and 219 authorships into /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/db/openalex.duckdb
+2026-07-02 00:45:55 | INFO     | dashboard.generate_dashboard | Dashboard written to /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/dashboard/dashboard.html
+2026-07-02 00:45:55 | INFO     | pipeline.flow | Pipeline run 1243f1219d73 finished with status=success
+2026-07-02 00:46:04 | INFO     | __main__ | Dashboard written to /sessions/blissful-friendly-feynman/mnt/outputs/openalex-etl/dashboard/dashboard.html
+2026-07-02 00:46:05 | WARNING  | pipeline.transform | Dropped 2 raw records missing id/title
+2026-07-02 00:46:05 | INFO     | pipeline.transform | Dropped 1 duplicate work_id rows
+2026-07-02 00:46:05 | INFO     | pipeline.transform | Dropped 1 duplicate (work_id, author_id) rows
+2026-07-02 00:46:05 | INFO     | pipeline.transform | Transformed into 60 works and 219 authorships
+2026-07-02 00:46:05 | WARNING  | pipeline.transform | Dropped 2 raw records missing id/title
+2026-07-02 00:46:05 | INFO     | pipeline.transform | Dropped 1 duplicate work_id rows
+2026-07-02 00:46:05 | INFO     | pipeline.transform | Dropped 1 duplicate (work_id, author_id) rows
+2026-07-02 00:46:05 | INFO     | pipeline.transform | Transformed into 60 works and 219 authorships
+2026-07-02 00:46:05 | INFO     | pipeline.load | Loaded 60 works and 219 authorships into /sessions/blissful-friendly-feynman/tmp/pytest-of-blissful-friendly-feynman/pytest-2/test_load_is_idempotent0/test.duckdb
+2026-07-02 00:46:05 | INFO     | pipeline.load | Loaded 60 works and 219 authorships into /sessions/blissful-friendly-feynman/tmp/pytest-of-blissful-friendly-feynman/pytest-2/test_load_is_idempotent0/test.duckdb
+2026-07-02 00:46:05 | INFO     | pipeline.extract | Fetching OpenAlex works page 1 (cursor=*)
+2026-07-02 00:46:05 | INFO     | pipeline.extract | Fetching OpenAlex works page 2 (cursor=abc123)
+2026-07-02 00:46:05 | INFO     | pipeline.extract | Extracted 63 raw work records from OpenAlex
+2026-07-02 00:46:05 | INFO     | pipeline.extract | Fetching OpenAlex works page 1 (cursor=*)

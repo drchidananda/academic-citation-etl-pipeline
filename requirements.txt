@@ -1,0 +1,8 @@
+prefect>=2.19,<3.0
+# Pinned: prefect 2.x's internal task-group shim breaks on some anyio 4.x
+# point releases (AbstractMethodError on GatherTaskGroup). 4.4.0 is known-good.
+anyio==4.4.0
+pandas>=2.0
+duckdb>=0.10
+requests>=2.31
+urllib3>=2.0
